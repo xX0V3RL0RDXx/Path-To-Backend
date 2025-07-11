@@ -47,8 +47,8 @@ Loads questions from a file, presents them, and shows the final score.
 
 Marks the transition from local applications to web-based APIs.
 
-10. **Hello World Web API**  
-A single-endpoint API returning a welcome message.
+10. **Weather Forecast API**  
+Simple API that returns a list of mock weather data.
 
 11. **To-Do API**  
 A RESTful API version of the console To-Do app using in-memory storage.
